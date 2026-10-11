@@ -22,7 +22,7 @@ Application mobile de gestion comptable pour BeNatural ByLaury.
    
    Remplacer la ligne :
    ```kotlin
-   private val appUrl = "https://script.google.com/macros/s/VOTRE_ID_DE_DEPLOIEMENT/exec"
+   private val appUrl = "https://script.google.com/macros/s/AKfycbxzv4rvdHPUuZ6A2haWjbSGmxd3OsZMcw3V-CbAXNa3njkchFLWWGIZtxKi4H7LQWvx/exec"
    ```
    
    Par votre URL Google Apps Script réelle.
