@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeNatural Comptable</string>
+    <string name="app_description">Application de gestion comptable BeNatural ByLaury</string>
+
+    <!-- Messages d'erreur -->
+    <string name="error_no_connection">Connexion impossible</string>
+    <string name="error_retry">Réessayer</string>
+    <string name="error_check_connection">Vérifiez votre connexion internet</string>
+</resources>
