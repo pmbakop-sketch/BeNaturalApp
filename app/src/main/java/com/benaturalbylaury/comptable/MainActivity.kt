@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var progressBar: ProgressBar
 
     // ⚠️ REMPLACEZ CETTE URL PAR VOTRE URL GOOGLE APPS SCRIPT
-    private val appUrl = "https://script.google.com/macros/s/VOTRE_ID_DE_DEPLOIEMENT/exec"
+    private val appUrl = "https://script.google.com/macros/s/AKfycbxzv4rvdHPUuZ6A2haWjbSGmxd3OsZMcw3V-CbAXNa3njkchFLWWGIZtxKi4H7LQWvx/exec"
 
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
